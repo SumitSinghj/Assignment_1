@@ -1,0 +1,81 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: .6em;
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.desig{
+    font-size: large;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: 3em;
+}
+
+section{
+    margin: auto 1em 4em 2em;
+}
+
+#email{
+    height: 20px;
+    width: 30px;
+    margin: 0px 20px;
+}
+#github{
+    height: 20px;
+    width: 30px;
+    margin: 0px 20px;
+}
+#linkedin{
+    height: 20px;
+    width: 30px;
+    margin: 0px 20px;
+}
+
+p{
+    font-size: medium;
+    margin: .2em auto;
+}
+
+.certi{
+    font-weight: 500;
+}
+
+li{
+    font-size: medium;
+}
+
+hr{
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1{
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+
+#mostleft{
+    border-right: 1px solid lightgray;
+}
+
